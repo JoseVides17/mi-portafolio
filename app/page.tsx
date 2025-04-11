@@ -139,7 +139,7 @@ export default function Home() {
       {/* Navbar */}
       <nav className="fixed top-0 w-full bg-white/80 dark:bg-gray-900/80 backdrop-blur-sm z-10">
         <div className="container mx-auto px-4 py-4 flex justify-between items-center">
-          <h1 className="text-xl font-bold">Mi Portafolio</h1>
+          <h1 className="text-xl font-bold">VIDESTECH</h1>
           
           {/* Botón de menú hamburguesa para móviles */}
           <button 
